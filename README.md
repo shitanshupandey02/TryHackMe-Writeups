@@ -21,7 +21,6 @@
 * **Action taken:** Assigned the alert to myself and updated status to "In Progress".
 
 ### Task 2: Alert Analysis (True Positive vs False Positive)
-*Describe how you triaged the suspicious alerts without including the direct room flags.*
 
 #### Case 1: Phishing and Malware Delivery Attempt
 * **Indicators Reviewed:** [e.g., Suspicious file hash, double-extension executables like `cats2025.mp4.exe`, or malicious lookalike domains]
